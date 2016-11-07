@@ -1,0 +1,23 @@
+{
+  "name": "simple-webcrawler-javascript",
+  "version": "0.0.0",
+  "description": "A simple webcrawler written in JavaScript",
+  "main": "crawler.js",
+  "author": "Adam",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "dot-object": "^1.5.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.78.0",
+    "simple-oauth2": "^1.0.0",
+    "simple-xml2json": "^1.2.3",
+    "stringify": "^5.1.0"
+  }
+}
